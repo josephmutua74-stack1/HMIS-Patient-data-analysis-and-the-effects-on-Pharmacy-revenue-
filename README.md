@@ -26,9 +26,9 @@ The data was loaded  from an excell workbook
 Star schema was used with patient data table being the fact table with visits and pharmacy revenue dimension tables.
 
 ### KPIs 
-_Total hospital visits
-Total pharmacy Revenue
-Average length of stay_
+1. Total hospital visits
+2. Total pharmacy Revenue
+3. Average length of stay
 
 ### Dashboards
 The dashboard allows users to filter by _Date(Months), department, and County _to explore trends and performance drivers.
