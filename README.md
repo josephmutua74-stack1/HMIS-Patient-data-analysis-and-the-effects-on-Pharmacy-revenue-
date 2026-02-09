@@ -7,14 +7,14 @@ The project also seeks to gauge diagnosi across various counties
 Despite an increase in patient visits, and lengthy stays in hospitals, this has not  translated to improved pharmacy revenue. This project explores the reasons behind this trend.
 
 ## Objective
-  _1.Analyze patient visit trends vs Pharmacy revenue
+  1.Analyze patient visit trends vs Pharmacy revenue
   2.Measure pharmacy revenue performance
   3.Identify revenue per visit patterns
   4.Which diseases are most common across counties?
   5.Department vs revenue generated
   6.
-  7.length of hospital stay vs revenue output_
-
+  7.length of hospital stay vs revenue output
+  
 ## Data source
 The data was loaded  from an excell workbook
 
@@ -31,7 +31,7 @@ _Total hospital visits
 Total pharmacy Revenue
 Average length of stay_
 
-## Dashboards
+### Dashboards
 The dashboard allows users to filter by _Date(Months), department, and County _to explore trends and performance drivers.
 ## Insights and Findings
 ## Common diseases across counties
