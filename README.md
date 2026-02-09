@@ -7,22 +7,21 @@ The project also seeks to gauge diagnosi across various counties
 Despite an increase in patient visits, and lengthy stays in hospitals, this has not  translated to improved pharmacy revenue. This project explores the reasons behind this trend.
 
 ### Objective
-  1.Analyze patient visit trends vs Pharmacy revenue
-  2.Measure pharmacy revenue performance
-  3.Identify revenue per visit patterns
-  4.Which diseases are most common across counties?
-  5.Department vs revenue generated
-  6.
-  7.length of hospital stay vs revenue output
+  1. Analyze patient visit trends vs Pharmacy revenue
+  2. Measure pharmacy revenue performance
+  3. Identify revenue per visit patterns
+  4. Which diseases are most common across counties?
+  5. Department vs revenue generated
+  6. length of hospital stay vs revenue output
   
 ### Data source
 The data was loaded  from an excell workbook
 
 ### Tools used
-  _Power bi
-  DAX
-  Power query
-  Excell hospital data as the data source._
+ _ 1. Power bi
+  2. DAX
+  3. Power query
+  4. Excell hospital data as the data source._
 ### Data model
 Star schema was used with patient data table being the fact table with visits and pharmacy revenue dimension tables.
 
