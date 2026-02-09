@@ -18,10 +18,10 @@ Despite an increase in patient visits, and lengthy stays in hospitals, this has 
 The data was loaded  from an excell workbook
 
 ### Tools used
- _ 1. Power bi
+  1. Power bi
   2. DAX
   3. Power query
-  4. Excell hospital data as the data source._
+  4. Excell hospital data as the data source.
 ### Data model
 Star schema was used with patient data table being the fact table with visits and pharmacy revenue dimension tables.
 
